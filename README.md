@@ -12,7 +12,6 @@
 ---
 
 ## How to download:
-
 <img src="https://user-images.githubusercontent.com/75297863/163903656-b32b9686-c147-469b-bb3f-808ab6d6bc36.png" align="center" height="384px">
 
 ## How to switch versions:
