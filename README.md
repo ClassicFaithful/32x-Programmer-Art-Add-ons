@@ -1,3 +1,7 @@
+## Important Note:
+
+Classic Faithful add-ons are temporarily on pause, until the ongoing rewrite of the Faithful website is complete. You can still download packs, but they may be for outdated versions or use outdated textures.
+
 <img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/cf32pa_logo.png?raw=true" alt="Classic Faithful 32x PA" align="right" height="256px">
 <div align="center">
   <h1>Classic Faithful 32x PA</h1>
