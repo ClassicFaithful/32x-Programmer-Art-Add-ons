@@ -2,7 +2,7 @@
 
 Classic Faithful add-ons are temporarily on pause, until the ongoing rewrite of the Faithful website is complete. You can still download packs, but they may be for outdated versions or use outdated textures.
 
-<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/cf32_logo.png" alt="Classic Faithful 32x" align="right" height="256px">
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/cf32_logo.png?w=256" alt="Classic Faithful 32x" align="right" height="256px">
 <div align="center">
   <h1>Classic Faithful 32x</h1>
   <h3>A double resolution texture pack that continues Vattic’s original Faithful 32x32 pack with the classic textures.</h3>
